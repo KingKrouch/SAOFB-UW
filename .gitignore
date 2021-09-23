@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Project Specific Ignores
+Intermediate/
+*.asi
+.vs/
+Binaries/Win64/plugins/SAOFBUW_Debug_Win64.pdb
+Binaries/Win64/plugins/SAOFBUW_Debug_Win64.ilk
+Binaries/Win64/plugins/Updater_Debug_Win64.pdb
+Binaries/Win64/plugins/Updater_Debug_Win64.ilk
+*.iobj
