@@ -28,7 +28,7 @@ After installation, add **"-NoEAC"** is added to the game's launch parameters on
 * [Microsoft Visual C++ Redistributables for Visual Studio 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 ## Download (For novices)
-[Latest version can be downloaded here.](https://ci.appveyor.com/project/KingKrouch/saofb-uw/build/artifacts)
+[Latest version can be downloaded here.](https://github.com/KingKrouch/SAOFB-UW/releases)
 
 Download includes the latest version of [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader).
 
