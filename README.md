@@ -1,5 +1,5 @@
 # SAOFB-UW (Sword Art Online: Fatal Bullet Ultrawide Fix)
-[![Build status](https://ci.appveyor.com/api/projects/status/lmokhr5ms8kdhl97?svg=true)](https://ci.appveyor.com/project/KingKrouchAV/saofb-uw/build/artifacts)
+[![Build status](https://ci.appveyor.com/api/projects/status/osruk2rvpy5chnby?svg=true)](https://ci.appveyor.com/project/KingKrouch/saofb-uw/build/artifacts)
 
 ## About
 An ASI Loader plugin which allows Sword Art Online: Fatal to run on Ultrawide displays, with custom FOVs, and with high framerates (without modifying LocalAppData INI files).
@@ -28,7 +28,7 @@ After installation, add **"-NoEAC"** is added to the game's launch parameters on
 * [Microsoft Visual C++ Redistributables for Visual Studio 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 ## Download (For novices)
-[Latest version can be downloaded here.](https://ci.appveyor.com/project/KingKrouchAV/saofb-uw/build/artifacts)
+[Latest version can be downloaded here.](https://ci.appveyor.com/project/KingKrouch/saofb-uw/build/artifacts)
 
 Download includes the latest version of [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader).
 
@@ -37,4 +37,4 @@ Download includes the latest version of [Ultimate ASI Loader](https://github.com
 
 **SAOFB-UW is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.**
 
-**SAOFB-UW is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. [See the GNU General Public License for more details.](https://gitlab.com/KingKrouch/SAOFB-UW/-/blob/master/LICENSE)**
+**SAOFB-UW is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. [See the GNU General Public License for more details.](https://github.com/KingKrouch/SAOFB-UW/blob/main/LICENSE)**
