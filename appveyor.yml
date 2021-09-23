@@ -15,4 +15,4 @@ after_build:
     del *.bat
 artifacts:
 - path: Binaries\Win64
-  name: SAOFBUW_Win64_Build-$(configuration)
+  name: SAOFBUW_Win64_Build-$(configuration)-v$(appveyor_build_version)
